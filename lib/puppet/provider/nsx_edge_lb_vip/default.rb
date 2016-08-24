@@ -1,4 +1,4 @@
-# Copyright (C) 2013 VMware, Inc.
+# Copyright (C) 2014-2016 VMware, Inc.
 require 'pathname'
 vmware_module = Puppet::Module.find('vmware_lib', Puppet[:environment].to_s)
 require File.join vmware_module.path, 'lib/puppet_x/vmware/util'

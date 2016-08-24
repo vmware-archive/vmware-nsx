@@ -1,4 +1,4 @@
-# Copyright (C) 2014 VMware, Inc.
+# Copyright (C) 2014-2016 VMware, Inc.
 
 Puppet::Type.newtype(:nsx_component) do
   @doc = 'Manage NSX components, these are the services used by NSX'

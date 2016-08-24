@@ -1,4 +1,4 @@
-# Copyright (C) 2014 VMware, Inc.
+# Copyright (C) 2014-2016 VMware, Inc.
 [ 'puppet_x/puppetlabs/transport',
   'puppet_x/vmware/util' ].each do |path|
   begin

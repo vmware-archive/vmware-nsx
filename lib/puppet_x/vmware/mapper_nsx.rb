@@ -1,4 +1,4 @@
-# Copyright 2013, 2014 VMware, Inc.
+# Copyright (C) 2014-2016 VMware, Inc.
 require 'pathname' # WORK_AROUND #14073 and #7788
 
 vmware_module = Puppet::Module.find('vmware_lib', Puppet[:environment].to_s)

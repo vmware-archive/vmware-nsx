@@ -1,4 +1,4 @@
-# Copyright (C) 2014 VMware, Inc.
+# Copyright (C) 2014-2016 VMware, Inc.
 require 'pathname'
 require 'ipaddr'
 vmware_module = Puppet::Module.find('vmware_lib', Puppet[:environment].to_s)

@@ -1,4 +1,4 @@
-# Copyright (C) 2013 VMware, Inc.
+# Copyright (C) 2014-2016 VMware, Inc.
 require 'pathname'
 module_lib    = Pathname.new(__FILE__).parent.parent.parent
 vmware_module = Puppet::Module.find('vmware_lib', Puppet[:environment].to_s)

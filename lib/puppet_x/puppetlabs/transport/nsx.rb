@@ -1,4 +1,4 @@
-# Copyright (C) 2014 VMware, Inc.
+# Copyright (C) 2014-2016 VMware, Inc.
 require 'rest_client' if Puppet.features.restclient? and ! Puppet.run_mode.master?
 
 module PuppetX::Puppetlabs::Transport
