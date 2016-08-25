@@ -2,9 +2,18 @@
 
 # Contributing to vmware-nsx
 
+Thank you for using our puppet module. We would love to hear back from your experiences with them and welcome you to contribute to the project.
+
 ## Community
 
+We hang out in the Puppet channel of the VMware Code slack group.
+
+https://vmwarecode.slack.com/archives/puppet
+
 ## Getting Started
+
+* Installl your preferred Puppet agent
+* Download the repo to the modules directory
 
 ## Contribution Flow
 

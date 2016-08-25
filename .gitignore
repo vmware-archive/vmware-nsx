@@ -1,0 +1,5 @@
+Gemfile.lock
+*.gem
+.bundle
+coverage
+spec/fixtures/modules/
