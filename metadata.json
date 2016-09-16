@@ -1,0 +1,14 @@
+{
+  "name": "vmware-nsx",
+  "version": "0.1.0",
+  "author": "VMware 2016",
+  "license": "Apache-2.0",
+  "summary": "VMware NSX puppet module",
+  "source": "git@github.com:vmware/vmware-nsx.git",
+  "project_page": "https://github.com/vmware/vmware-nsx",
+  "issues_url": "https://github.com/vmware/vmware-nsx/issues",
+  "tags": ["vmware", "nsx"],
+  "dependencies": [
+    { "name": "vmware/vmware_lib", "version_requirement": ">= 0.7.0" }
+  ]
+}
